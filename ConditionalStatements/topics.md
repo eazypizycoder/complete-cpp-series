@@ -1,67 +1,28 @@
-<!-- Style: Professional Modern Blue Theme -->
+# Control Flow & Conditional Logic — Modern Guide
 
-# <span style="color:#0DA2FF;">Control Flow & Conditional Logic — Modern Guide</span>
-
-## <span style="color:#0DA2FF;">1. Basics of Conditional Statements</span>
-- Introduction to decision-making in programming  
-- Understanding boolean expressions  
-- Flow control fundamentals  
-
+## 1. Basics of Conditional Statements
 ---
 
-## <span style="color:#0DA2FF;">2. Condition-Based Variables (without using if/else)</span>
-- Using the ternary operator  
-- Logical operators for inline decisions  
-- Optional/map-based conditional patterns  
-
+## 2. Condition-Based Variables (without using if/else)
 ---
 
-## <span style="color:#0DA2FF;">3. if–else Basics</span>
-- Standard syntax  
-- Deciding between `if` and `else`  
-- Common mistakes to avoid  
-
+## 3. if–else Basics
 ---
 
-## <span style="color:#0DA2FF;">4. Nested if–else</span>
-- Structuring multi-level decisions  
-- Improving readability  
-- Reducing complexity  
-
+## 4. Nested if–else
 ---
 
-## <span style="color:#0DA2FF;">5. Modern Ways to Initialize if/else Conditions</span>
-- Initialization inside condition (`if (int x = f(); x > 0)`)  
-- Better variable scoping  
-- Cleaner control flow  
-
+## 5. Modern Ways to Initialize if/else Conditions
 ---
 
-## <span style="color:#0DA2FF;">6. constexpr in Condition Statements</span>
-- Compile-time decisions  
-- `constexpr if` usage  
-- Performance/compile-time benefits  
-
+## 6. `constexpr` in Condition Statements
 ---
 
-## <span style="color:#0DA2FF;">7. Conditions Based on Logical Operators</span>
-- Using `&&`, `||`, `!` effectively  
-- Short-circuit evaluation  
-- Combining multiple expressions cleanly  
-
+## 7. Conditions Based on Logical Operators
 ---
 
-## <span style="color:#0DA2FF;">8. Switch Statements</span>
-- Basic switch syntax  
-- Modern switch features  
-- When to use switch instead of if-else  
-
+## 8. Switch Statements
 ---
 
-## <span style="color:#0DA2FF;">9. Best Approaches</span>
-- Keep conditions simple and readable  
-- Prefer guard clauses  
-- Avoid deep nesting  
-- Use compile-time conditions when possible  
-
+## 9. Best Approaches
 ---
