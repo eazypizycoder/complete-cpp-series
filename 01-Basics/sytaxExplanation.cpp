@@ -1,26 +1,26 @@
-// Classical C++
+    // Classical C++
 
-#include <iostream>
-// using namespace std;
+    #include <iostream>
+    // using namespace std;
 
-void cout()
-{
-    std::cout << "Inside the function";
-}
+    void cout()
+    {
+        std::cout << "Inside the function";
+    }
 
-int main()
-{
-    std::cout << "Hy this is our main program";
+    int main()
+    {
+        std::cout << "Hy this is our main program";
 
-    cout();
-    return 0;
-}
+        cout();
+        return 0;
+    }
 
-// Modern C++
+    // Modern C++
 
-// #include <iostream>
-// int main()
-// {
-//     std::cout<<"Hello";
-//     return 0;
-// }
+    // #include <iostream>
+    // int main()
+    // {
+    //     std::cout<<"Hello";
+    //     return 0;
+    // }
