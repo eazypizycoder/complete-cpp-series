@@ -21,7 +21,10 @@ int main()
     int uservalue{};
     std::cout << "Enter any number ";
     std::cin >> uservalue;
-    bool condition = (uservalue > 10);
+
+    bool condition = 
+    
+    (uservalue > 10);
 
     std::cout<<condition;
 }
